@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>VSTONX</title>
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.min.css' )}}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/fullcalendar.min.css')}}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css')}}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/tooplate.css')}}">
+</head>
+
+<body id="reportsPage">
+  <div class="" id="home">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <nav class="navbar navbar-expand-xl navbar-light dark_o">
+            <a class="navbar-brand" href="{{ url_for('home')}}">
+              <h1 class="tm-site-title mb-0 light">VSTONX</h1>
+            </a>
+            <button class="navbar-toggler ml-auto mr-0" type="button" data-toggle="collapse"
+              data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+              aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mx-auto">
+                <div class="nav-item">
+                  <form name="index" action="" method="POST" class="tm-login-form">
+                    {{ form_1.hidden_tag() }}
+                    <fieldset>
+                      <div class="input-group">
+                        {{ form_1.index(class="form-control validate col-xl-9 col-lg-8 col-md-8 col-sm-7")}}
+                        {{ form_1.submit(class="btn btn-primary d-inline-block mx-auto")}}
+                      </div>
+                    </fieldset>
+                  </form>
+                </div>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ url_for('home')}}">
+                    Home
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ url_for('stock', tick='INFY')}}">Stock Search</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <!-- row -->
+      <div class="row tm-content-row tm-mt-big">
+        <div class="tm-col tm-col-big h-500">
+          <div class="tm-block h-100 dark">
+            <h2 class="tm-block-title light">
+              INDEX: {{ selection }}
+            </h2>
+            {% for item in data %}
+            <h5 style="color: #d6e0f0; ">
+              {{item}}
+            </h5>
+            <div></div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="{{ url_for('static', filename='js/jquery-3.3.1.min.js' )}}"></script>
+  <script src="{{ url_for('static', filename='js/moment.min.js' )}}"></script>
+  <script src="{{ url_for('static', filename='js/utils.js' )}}"></script>
+  <script src="{{ url_for('static', filename='js/Chart.min.js' )}}"></script>
+  <script src="{{ url_for('static', filename='js/fullcalendar.min.js' )}}"></script>
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js' )}}"></script>
+</body>
+
+</html>

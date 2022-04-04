@@ -1,1 +1,227 @@
-{% extends "index.html" %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>VSTONX</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.min.css' )}}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/fullcalendar.min.css')}}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/tooplate.css')}}">
+</head>
+
+<body id="reportsPage">
+    <div class="" id="home">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="navbar navbar-expand-xl navbar-light dark_o">
+                        <a class="navbar-brand" href="{{ url_for('home')}}">
+                            <h1 class="tm-site-title mb-0 light">VSTONX</h1>
+                        </a>
+                        <button class="navbar-toggler ml-auto mr-0" type="button" data-toggle="collapse"
+                            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav mx-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link " href="{{ url_for('search')}}">
+                                        Index Search
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ url_for('stock', tick='INFY')}}">Stock Search</a>
+                                </li>
+                            </ul>
+                                <h5 style="color: #ffffff; ">
+                                    NIFTY: {{ n_value }} ( {{ n_chng }}%)
+                                </h5>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- row -->
+            <div class="row tm-content-row tm-mt-big">
+                <div class="tm-col tm-col-mid-2 h-500">
+                    <div class="tm-block h-100 dark">
+                        <h2 class="tm-block-title light">
+                            TOP GAINERS
+                        </h2>
+                        {% for item in gainers %}
+                        <h5 style="color: #d6e0f0; ">
+                            {{item}}
+                        </h5>
+                        <div></div>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="tm-col tm-col-mid-2">
+                    <div class="tm-block h-100 dark">
+                        <h2 class="tm-block-title light">
+                            ADVANCE / DECLINE
+                        </h2>
+                        <canvas id="pieChart"></canvas>
+                    </div>
+                </div>
+                <div class="tm-col tm-col-mid-2">
+                    <div class="tm-block h-100 dark">
+                        <div class="row">
+                            <div class="col-8">
+                                <h2 class="tm-block-title d-inline-block light">TOP LOSERS</h2>
+                                {% for item in losers %}
+                                <h5 style="color: #d6e0f0; ">
+                                    {{item}}
+                                </h5>
+                                <div></div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/jquery-3.3.1.min.js' )}}"></script>
+    <script src="{{ url_for('static', filename='js/moment.min.js' )}}"></script>
+    <script src="{{ url_for('static', filename='js/utils.js' )}}"></script>
+    <script src="{{ url_for('static', filename='js/Chart.min.js' )}}"></script>
+    <script src="{{ url_for('static', filename='js/fullcalendar.min.js' )}}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js' )}}"></script>
+    <script>
+        const width_threshold = 480;
+
+        function drawLineChart() {
+            if ($("#lineChart").length) {
+                ctxLine = document.getElementById("lineChart").getContext("2d");
+                optionsLine = {
+                    scales: {
+                        yAxes: [
+                            {
+                                scaleLabel: {
+                                    display: true,
+                                    labelString: "PRICE"
+                                }
+                            }
+                        ]
+                    }
+                };
+
+                optionsLine.maintainAspectRatio =
+                    $(window).width() < width_threshold ? false : true;
+
+                configLine = {
+                    type: "line",
+                    data: {
+                        labels: [{% for item in labels %}
+                        "{{item}}",
+                        {% endfor %}],
+                datasets: [
+                    {
+                        label: '{{ legend }}',
+                        data: [{% for item in values %}
+                            {{ item }},
+            {% endfor %}],
+            fill: false,
+                borderColor: "#d6e0f0",
+                    lineTension: 0.1,
+                        cubicInterpolationMode: 'monotone',
+                            pointRadius: '2',
+                                spangaps: true,
+                  },
+                ]
+              },
+        options: optionsLine
+            };
+
+        lineChart = new Chart(ctxLine, configLine);
+          }
+        }
+
+        function drawPieChart() {
+            if ($("#pieChart").length) {
+                ctxPie = document.getElementById("pieChart").getContext("2d");
+                optionsPie = {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                };
+
+                configPie = {
+                    type: "doughnut",
+                    data: {
+                        datasets: [
+                            {
+                                data: [{{ advance }}, {{ decline }}, {{ u_changed }}],
+                backgroundColor: [
+                    "#50C878",
+                    "#ED2939",
+                    "#ffffff",
+                ],
+                    borderColor: "#000000",
+                            }
+                        ],
+            labels: ["Advance:" + {{ advance }}, "Decline:" + {{ decline }}, "Unchanged:" + {{ u_changed }}]
+                    },
+        options: optionsPie
+                };
+
+        pieChart = new Chart(ctxPie, configPie);
+            }
+        }
+
+        function updateChartOptions() {
+            if ($(window).width() < width_threshold) {
+                if (optionsLine) {
+                    optionsLine.maintainAspectRatio = false;
+                }
+            } else {
+                if (optionsLine) {
+                    optionsLine.maintainAspectRatio = true;
+                }
+            }
+        }
+
+        function updateLineChart() {
+            if (lineChart) {
+                lineChart.options = optionsLine;
+                lineChart.update();
+            }
+        }
+
+        function reloadPage() {
+            setTimeout(function () {
+                window.location.reload();
+            }); // Reload the page so that charts will display correctly
+        }
+
+    </script>
+    <script>
+        let ctxLine,
+            ctxPie,
+            optionsLine,
+            optionsPie,
+            configLine,
+            configPie,
+            lineChart;
+        pieChart;
+
+        $(function () {
+            updateChartOptions();
+            drawLineChart();
+            drawPieChart();
+
+            $(window).resize(function () {
+                updateChartOptions();
+                updateLineChart();
+                reloadPage();
+            });
+        })
+    </script>
+</body>
+
+</html>

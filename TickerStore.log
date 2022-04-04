@@ -1,0 +1,1475 @@
+2021-04-25 11:25:44.912 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:44.916 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:44.918 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:44.920 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:45.095 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:50.853 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:50.856 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:50.857 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:50.858 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:51.154 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:51.169 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:51.172 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:51.174 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:51.175 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:51.496 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:51.504 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:51.507 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:51.509 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:51.510 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:51.828 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:51.836 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:51.838 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:51.840 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:51.841 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:52.163 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:52.172 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:52.174 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:52.176 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:52.177 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:52.453 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:52.462 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:52.464 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:52.466 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:52.467 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:53.153 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:53.162 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:53.165 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:53.167 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:53.168 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:53.422 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:53.430 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:53.432 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:53.435 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:53.437 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:53.678 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:53.686 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:53.688 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:53.689 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:53.691 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:53.956 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:53.964 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:53.966 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:53.968 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:53.969 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:54.203 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:54.213 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:54.216 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:54.217 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:54.218 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:54.570 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:54.578 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:54.580 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:54.581 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:54.583 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:54.861 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:54.870 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:54.872 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:54.873 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:54.875 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:55.078 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:55.085 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:55.087 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:55.089 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:55.091 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:55.407 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:55.415 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:55.418 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:55.420 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:55.421 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:55.768 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:55.775 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:55.777 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:55.778 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:55.780 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:56.134 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:56.142 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:56.144 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:56.146 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:56.147 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:56.371 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:56.379 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:56.381 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:56.382 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:56.384 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:56.670 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:56.678 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:56.680 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:56.681 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:56.682 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:56.945 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:56.953 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:56.956 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:56.957 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:56.958 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:57.170 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:57.178 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:57.180 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:57.182 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:57.184 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:57.507 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:57.515 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:57.517 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:57.519 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:57.521 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:57.807 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:57.814 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:57.817 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:57.819 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:57.821 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:58.130 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:58.138 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:58.140 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:58.141 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:58.142 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:25:58.459 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:25:58.467 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:25:58.469 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:25:58.470 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:25:58.471 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:00.707 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:00.715 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:00.717 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:00.718 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:00.720 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:01.058 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:01.066 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:01.068 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:01.071 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:01.072 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:01.639 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:01.647 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:01.649 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:01.651 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:01.652 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:01.877 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:01.885 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:01.887 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:01.888 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:01.890 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:02.113 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:02.121 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:02.123 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:02.124 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:02.126 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:02.416 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:02.424 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:02.427 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:02.428 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:02.429 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:02.726 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:02.734 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:02.736 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:02.739 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:02.741 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:03.004 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:03.013 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:03.015 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:03.016 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:03.017 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:03.301 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:03.309 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:03.311 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:03.312 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:03.313 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:03.626 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:03.634 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:03.635 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:03.637 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:03.638 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:03.904 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:03.912 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:03.914 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:03.916 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:03.924 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:04.253 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:04.261 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:04.263 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:04.265 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:04.266 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:05.112 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:05.119 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:05.121 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:05.123 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:05.124 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:05.438 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:05.446 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:05.448 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:05.449 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:05.450 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:05.676 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:05.684 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:05.687 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:05.689 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:05.690 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:06.041 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:06.048 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:06.049 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:06.050 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:06.052 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:06.354 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:06.362 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:06.363 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:06.365 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:06.367 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:06.645 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:06.652 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:06.655 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:06.656 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:06.657 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:06.942 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:06.951 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:06.954 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:06.955 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:06.957 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:07.245 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:07.253 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:07.256 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:07.257 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:07.258 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:07.604 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:28.402 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:28.404 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:28.405 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:28.407 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:28.735 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:28.746 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:28.749 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:28.751 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:28.753 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:28.987 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:28.995 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:28.997 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:28.999 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:29.001 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:29.351 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:29.360 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:29.362 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:29.364 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:29.365 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:29.680 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:29.688 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:29.690 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:29.692 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:29.693 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:30.010 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:30.018 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:30.019 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:30.020 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:30.022 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:30.345 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:30.353 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:30.355 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:30.357 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:30.358 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:30.648 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:30.655 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:30.657 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:30.659 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:30.660 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:31.014 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:31.022 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:31.024 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:31.026 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:31.027 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:31.377 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:31.385 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:31.387 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:31.389 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:31.390 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:31.736 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:31.744 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:31.746 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:31.748 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:31.750 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:32.094 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:32.102 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:32.104 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:32.106 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:32.107 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:32.491 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:32.501 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:32.516 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:32.518 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:32.520 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:32.858 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:32.868 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:32.871 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:32.872 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:32.873 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:33.202 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:33.210 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:33.212 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:33.213 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:33.215 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:33.538 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:33.546 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:33.548 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:33.550 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:33.551 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:33.864 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:33.872 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:33.874 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:33.876 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:33.877 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:34.204 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:34.212 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:34.214 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:34.216 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:34.218 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:34.569 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:34.576 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:34.578 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:34.580 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:34.582 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:34.899 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:34.907 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:34.909 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:34.910 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:34.911 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:35.247 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:35.255 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:35.257 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:35.258 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:35.259 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:35.586 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:35.594 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:35.596 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:35.597 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:35.599 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:35.927 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:35.935 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:35.937 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:35.938 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:35.939 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:36.868 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:36.876 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:36.878 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:36.880 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:36.881 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:37.446 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:37.455 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:37.458 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:37.459 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:37.460 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:37.729 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:37.737 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:37.739 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:37.740 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:37.742 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:38.057 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:38.064 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:38.066 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:38.069 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:38.070 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:38.353 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:38.361 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:38.363 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:38.364 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:38.365 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:38.694 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:38.702 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:38.704 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:38.706 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:38.707 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:38.943 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:38.953 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:38.955 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:38.956 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:38.958 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:39.338 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:39.346 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:39.348 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:39.349 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:39.351 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:39.607 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:39.614 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:39.616 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:39.618 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:39.620 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:39.897 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:39.905 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:39.907 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:39.909 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:39.910 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:40.242 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:40.249 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:40.252 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:40.253 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:40.255 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:40.554 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:40.563 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:40.565 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:40.568 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:40.570 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:40.888 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:40.896 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:40.899 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:40.901 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:40.902 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:41.177 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:41.185 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:41.187 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:41.188 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:41.189 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:41.466 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:41.473 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:41.476 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:41.477 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:41.479 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:41.817 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:41.825 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:41.827 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:41.829 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:41.830 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:42.183 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:42.191 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:42.194 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:42.196 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:42.197 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:45.792 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:45.800 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:45.803 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:45.805 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:45.807 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:46.139 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:46.146 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:46.149 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:46.150 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:46.151 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:46.720 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:46.728 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:46.730 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:46.731 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:46.732 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:47.552 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:47.560 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:47.563 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:47.564 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:47.566 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:48.165 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:48.174 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:48.176 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:48.178 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:48.179 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:48.530 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:48.538 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:48.540 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:48.541 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:48.543 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:48.891 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:26:48.899 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:26:48.900 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:26:48.901 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:26:48.903 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:26:49.226 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:00.959 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:00.962 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:00.963 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:00.965 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:02.635 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:02.643 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:02.646 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:02.647 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:02.648 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:02.974 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:02.982 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:02.984 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:02.986 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:02.987 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:03.273 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:03.281 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:03.283 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:03.284 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:03.286 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:03.565 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:03.572 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:03.574 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:03.575 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:03.577 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:03.858 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:03.868 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:03.870 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:03.871 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:03.872 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:04.159 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:04.167 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:04.169 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:04.170 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:04.172 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:04.458 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:04.466 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:04.468 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:04.469 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:04.470 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:04.788 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:04.796 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:04.798 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:04.800 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:04.801 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:05.110 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:05.117 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:05.119 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:05.120 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:05.121 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:05.400 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:05.408 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:05.410 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:05.412 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:05.413 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:05.787 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:05.795 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:05.798 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:05.799 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:05.800 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:06.137 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:06.146 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:06.148 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:06.150 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:06.151 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:06.481 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:06.489 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:06.491 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:06.492 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:06.493 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:06.838 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:06.847 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:06.850 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:06.851 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:06.852 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:07.220 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:07.229 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:07.232 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:07.233 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:07.234 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:07.609 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:07.617 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:07.619 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:07.620 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:07.622 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:08.407 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:08.414 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:08.417 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:08.418 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:08.419 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:08.698 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:08.704 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:08.706 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:08.708 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:08.710 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:09.001 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:09.010 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:09.012 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:09.014 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:09.016 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:09.348 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:09.356 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:09.358 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:09.359 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:09.361 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:09.684 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:09.692 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:09.694 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:09.696 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:09.698 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:10.058 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:10.066 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:10.068 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:10.070 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:10.071 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:10.408 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:10.416 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:10.417 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:10.418 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:10.419 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:10.686 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:10.694 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:10.697 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:10.698 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:10.699 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:11.043 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:11.050 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:11.053 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:11.054 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:11.055 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:11.378 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:11.387 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:11.390 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:11.391 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:11.392 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:11.698 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:11.707 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:11.708 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:11.709 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:11.711 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:12.531 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:12.539 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:12.541 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:12.542 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:12.543 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:12.896 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:12.904 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:12.907 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:12.908 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:12.909 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:13.227 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:13.236 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:13.238 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:13.239 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:13.241 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:13.538 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:13.550 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:13.552 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:13.553 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:13.555 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:13.851 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:13.859 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:13.860 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:13.861 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:13.862 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:14.177 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:14.186 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:14.188 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:14.189 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:14.190 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:14.472 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:14.480 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:14.482 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:14.483 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:14.485 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:14.838 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:14.845 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:14.847 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:14.848 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:14.850 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:15.177 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:15.185 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:15.187 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:15.188 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:15.189 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:15.509 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:15.517 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:15.519 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:15.521 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:15.522 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:15.931 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:15.941 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:15.943 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:15.944 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:15.945 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:16.242 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:16.250 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:16.252 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:16.253 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:16.255 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:16.534 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:16.542 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:16.545 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:16.546 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:16.548 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:16.864 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:16.872 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:16.874 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:16.876 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:16.877 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:17.166 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:17.174 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:17.176 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:17.178 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:17.179 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:17.456 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:17.464 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:17.466 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:17.468 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:17.469 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:17.802 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:17.810 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:17.812 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:17.814 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:17.816 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:18.133 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:27:18.141 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:27:18.144 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:27:18.145 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:27:18.146 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:27:18.870 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:54.977 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:54.979 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:54.981 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:54.982 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:55.174 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:55.183 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:55.185 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:55.187 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:55.189 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:55.317 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:55.325 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:55.327 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:55.328 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:55.330 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:55.442 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:55.450 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:55.452 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:55.454 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:55.456 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:55.562 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:55.571 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:55.573 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:55.575 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:55.576 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:55.744 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:55.754 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:55.757 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:55.758 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:55.759 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:55.917 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:55.924 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:55.926 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:55.927 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:55.929 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:56.123 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:56.130 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:56.132 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:56.134 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:56.136 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:56.243 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:56.251 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:56.254 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:56.256 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:56.258 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:56.366 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:56.375 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:56.376 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:56.378 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:56.379 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:56.510 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:56.517 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:56.519 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:56.521 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:56.522 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:56.632 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:56.687 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:56.690 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:56.691 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:56.692 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:56.811 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:56.819 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:56.821 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:56.822 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:56.823 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:56.930 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:56.939 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:56.942 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:56.943 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:56.944 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:57.060 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:57.068 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:57.070 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:57.072 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:57.074 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:57.179 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:57.187 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:57.189 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:57.191 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:57.192 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:57.384 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:57.392 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:57.394 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:57.396 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:57.397 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:57.565 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:57.573 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:57.575 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:57.576 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:57.578 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:57.711 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:57.719 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:57.721 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:57.723 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:57.724 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:57.833 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:57.842 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:57.843 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:57.845 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:57.846 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:57.954 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:57.962 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:57.964 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:57.965 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:57.966 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:58.118 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:58.126 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:58.129 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:58.130 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:58.132 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:58.238 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:58.245 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:58.248 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:58.249 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:58.250 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:58.358 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:58.365 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:58.367 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:58.368 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:58.370 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:58.498 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:58.506 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:58.507 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:58.509 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:58.510 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:58.664 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:58.672 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:58.674 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:58.675 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:58.677 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:58.832 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:58.839 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:58.841 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:58.843 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:58.844 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:59.006 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:59.013 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:59.015 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:59.016 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:59.017 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:59.146 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:59.155 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:59.157 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:59.158 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:59.160 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:59.262 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:59.270 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:59.272 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:59.273 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:59.275 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:59.411 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:59.418 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:59.420 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:59.423 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:59.424 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:59.556 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:59.564 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:59.565 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:59.567 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:59.568 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:59.678 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:59.686 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:59.688 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:59.690 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:59.691 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:59.802 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:59.810 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:59.812 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:59.814 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:59.815 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:28:59.964 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:28:59.972 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:28:59.974 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:28:59.975 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:28:59.976 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:00.127 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:00.134 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:00.137 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:00.138 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:00.140 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:00.305 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:00.312 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:00.314 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:00.316 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:00.317 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:00.422 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:00.430 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:00.432 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:00.433 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:00.434 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:00.540 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:00.548 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:00.550 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:00.552 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:00.553 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:00.706 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:00.713 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:00.715 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:00.716 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:00.718 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:00.827 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:00.835 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:00.837 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:00.838 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:00.840 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:00.948 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:00.956 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:00.958 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:00.959 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:00.961 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:01.069 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:01.077 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:01.079 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:01.081 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:01.082 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:01.209 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:01.259 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:01.261 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:01.263 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:01.264 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:01.372 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:01.380 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:01.381 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:01.383 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:01.384 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:01.537 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2021-04-25 11:29:01.544 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2021-04-25 11:29:01.546 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2021-04-25 11:29:01.547 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2021-04-25 11:29:01.549 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2021-04-25 11:29:01.696 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:42:31.666 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:42:31.686 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:42:31.686 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:42:31.693 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:42:31.857 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:41.263 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:41.265 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:41.267 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:41.269 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:41.307 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:45.525 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:45.528 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:45.529 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:45.530 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:45.827 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:45.836 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:45.839 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:45.840 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:45.843 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:46.049 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:46.058 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:46.060 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:46.062 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:46.063 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:46.321 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:46.329 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:46.331 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:46.333 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:46.334 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:46.629 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:46.636 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:46.638 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:46.639 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:46.640 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:46.927 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:46.933 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:46.935 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:46.937 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:46.939 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:47.244 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:47.251 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:47.254 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:47.255 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:47.257 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:47.511 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:47.519 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:47.521 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:47.522 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:47.523 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:47.797 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:47.803 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:47.805 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:47.807 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:47.809 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:48.106 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:48.114 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:48.116 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:48.117 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:48.118 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:48.402 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:48.410 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:48.412 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:48.413 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:48.414 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:49.503 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:49.509 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:49.512 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:49.514 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:49.515 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:49.808 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:49.815 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:49.817 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:49.819 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:49.820 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:50.119 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:50.127 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:50.129 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:50.131 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:50.133 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:50.401 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:50.411 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:50.413 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:50.414 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:50.415 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:50.723 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:50.730 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:50.732 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:50.734 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:50.735 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:50.999 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:51.006 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:51.009 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:51.010 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:51.012 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:51.267 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:51.274 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:51.276 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:51.278 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:51.279 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:51.579 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:51.586 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:51.588 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:51.589 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:51.590 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:51.850 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:51.857 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:51.859 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:51.860 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:51.861 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:52.126 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:52.134 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:52.135 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:52.137 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:52.138 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:52.411 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:52.418 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:52.420 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:52.421 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:52.422 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:52.688 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:52.696 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:52.698 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:52.699 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:52.701 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:52.959 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:52.966 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:52.969 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:52.970 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:52.971 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:53.319 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:53.327 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:53.330 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:53.331 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:53.332 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:53.607 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:53.614 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:53.616 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:53.617 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:53.618 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:53.899 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:53.907 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:53.910 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:53.910 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:53.911 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:54.179 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:54.186 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:54.189 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:54.190 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:54.191 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:54.485 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:54.493 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:54.495 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:54.496 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:54.497 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:54.710 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:54.718 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:54.720 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:54.721 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:54.722 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:55.068 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:55.076 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:55.079 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:55.080 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:55.081 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:55.304 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:55.311 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:55.314 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:55.316 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:55.317 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:55.556 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:55.563 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:55.566 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:55.567 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:55.569 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:55.857 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:55.863 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:55.866 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:55.867 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:55.868 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:56.149 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:56.155 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:56.158 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:56.159 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:56.160 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:56.404 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:56.411 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:56.413 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:56.414 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:56.415 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:56.673 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:56.680 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:56.681 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:56.683 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:56.684 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:56.952 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:56.959 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:56.962 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:56.963 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:56.964 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:57.290 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:57.296 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:57.298 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:57.299 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:57.301 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:57.641 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:57.647 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:57.649 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:57.650 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:57.652 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:57.922 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:57.930 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:57.932 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:57.933 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:57.934 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:58.259 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:58.268 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:58.270 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:58.270 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:58.272 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:58.584 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:58.590 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:58.592 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:58.593 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:58.594 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:58.931 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:58.939 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:58.941 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:58.943 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:58.944 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:59.189 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:59.197 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:59.199 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:59.200 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:59.201 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:45:59.490 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:45:59.500 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:45:59.502 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:45:59.503 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:45:59.504 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:00.351 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:00.357 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:00.360 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:00.361 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:00.362 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:00.684 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:00.774 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:00.777 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:00.780 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:00.782 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:00.833 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:15.799 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:15.802 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:15.804 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:15.805 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:16.117 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:16.125 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:16.127 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:16.128 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:16.130 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:16.492 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:16.499 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:16.501 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:16.503 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:16.505 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:16.815 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:16.822 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:16.825 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:16.826 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:16.827 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:17.110 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:17.116 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:17.119 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:17.121 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:17.122 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:17.401 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:17.408 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:17.411 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:17.411 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:17.413 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:17.644 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:17.652 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:17.655 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:17.655 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:17.656 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:17.879 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:17.886 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:17.889 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:17.890 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:17.892 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:18.150 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:18.157 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:18.158 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:18.160 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:18.161 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:18.450 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:18.457 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:18.459 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:18.460 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:18.461 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:18.769 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:18.777 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:18.779 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:18.780 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:18.781 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:19.077 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:19.084 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:19.087 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:19.088 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:19.089 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:19.380 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:19.388 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:19.391 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:19.392 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:19.393 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:19.612 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:19.621 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:19.623 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:19.624 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:19.625 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:20.000 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:20.010 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:20.012 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:20.013 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:20.014 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:20.325 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:20.336 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:20.337 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:20.338 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:20.339 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:20.622 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:20.628 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:20.630 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:20.632 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:20.634 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:20.871 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:20.878 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:20.880 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:20.882 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:20.883 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:21.844 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:21.852 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:21.856 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:21.857 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:21.858 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:22.102 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:22.109 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:22.111 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:22.113 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:22.114 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:22.329 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:22.336 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:22.339 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:22.340 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:22.341 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:23.156 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:23.162 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:23.165 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:23.165 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:23.167 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:23.435 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:23.442 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:23.445 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:23.446 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:23.447 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:23.750 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:23.757 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:23.759 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:23.760 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:23.761 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:24.098 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:24.104 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:24.107 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:24.108 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:24.110 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:24.372 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:24.378 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:24.380 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:24.381 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:24.382 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:24.690 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:24.698 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:24.701 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:24.703 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:24.704 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:24.932 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:24.939 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:24.942 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:24.943 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:24.944 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:25.192 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:25.199 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:25.201 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:25.203 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:25.204 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:25.414 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:25.421 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:25.423 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:25.424 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:25.427 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:25.714 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:25.720 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:25.723 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:25.725 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:25.726 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:25.997 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:26.004 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:26.006 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:26.008 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:26.009 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:26.258 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:26.267 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:26.269 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:26.271 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:26.272 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:26.539 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:26.546 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:26.549 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:26.550 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:26.551 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:26.822 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:26.830 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:26.832 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:26.833 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:26.834 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:27.078 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:27.085 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:27.087 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:27.089 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:27.090 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:27.712 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:27.720 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:27.722 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:27.723 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:27.724 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:28.012 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:28.019 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:28.021 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:28.022 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:28.025 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:28.281 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:28.289 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:28.292 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:28.293 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:28.294 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:28.533 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:28.541 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:28.544 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:28.545 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:28.546 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:28.830 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:28.836 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:28.838 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:28.839 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:28.841 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:29.133 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:29.140 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:29.141 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:29.142 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:29.143 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:29.427 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:29.434 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:29.436 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:29.438 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:29.438 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:29.719 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:29.725 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:29.728 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:29.729 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:29.731 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:30.082 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:30.089 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:30.091 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:30.092 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:30.093 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:30.416 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:46:30.503 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:46:30.505 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:46:30.507 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:46:30.509 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:46:30.547 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:48:17.628 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:48:17.631 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:48:17.634 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:48:17.635 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:48:17.685 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:48:24.880 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:48:24.884 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:48:24.886 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:48:24.889 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:48:24.925 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:48:41.595 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:48:41.597 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:48:41.599 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:48:41.600 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:48:41.659 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:55:00.592 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:55:00.601 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:55:00.603 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:55:00.605 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:55:00.759 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:55:02.057 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:55:02.059 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:55:02.061 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:55:02.062 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:55:02.319 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:55:07.073 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:55:07.075 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:55:07.077 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:55:07.079 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:55:07.125 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:55:08.948 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:55:08.950 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:55:08.952 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:55:08.955 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:55:08.995 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:55:26.682 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:55:26.684 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:55:26.686 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:55:26.688 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:55:26.780 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:56:09.566 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:56:09.580 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:56:09.581 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:56:09.583 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:56:09.673 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:57:04.772 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:57:04.782 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:57:04.784 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:57:04.786 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:57:05.048 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:57:10.851 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:57:10.853 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:57:10.855 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:57:10.857 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:57:10.934 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:57:42.336 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:57:42.338 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:57:42.340 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:57:42.340 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:57:42.387 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:58:22.350 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:58:22.352 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:58:22.355 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:58:22.356 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:58:22.465 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned
+2022-01-25 20:58:57.956 | INFO     | tickerstore.store:__init__:37 - Creating TickerStore instance object
+2022-01-25 20:58:57.958 | INFO     | tickerstore.store:historical_data:116 - Starting to fetch historical data
+2022-01-25 20:58:57.961 | INFO     | tickerstore.store:historical_data:141 - Trying source NSE for fetching historical data
+2022-01-25 20:58:57.962 | INFO     | tickerstore.store:historical_data:143 - Calling nse_historical_data
+2022-01-25 20:58:58.065 | INFO     | tickerstore.store:historical_data:147 - nse_historical_data method returned

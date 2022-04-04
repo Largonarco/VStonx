@@ -1,24 +1,9 @@
-/*
-
-Template 2108 Dashboard
-
-http://www.tooplate.com/view/2108-dashboard
-	
-
-COLOR CODES
-
-  Dark Gray: #656565
-  Light Gray: #E6E6E6
-  Blue: #0062BB
-  
-*/
-
 html {
   font-size: 17px;
 }
 
 body {
-  background-color: rgb(43, 38, 38);
+  background-color: #1b262c;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
@@ -39,6 +24,7 @@ body {
 a {
   transition: all 0.3s ease;
 }
+
 a:hover,
 a:focus {
   text-decoration: none;
@@ -95,13 +81,29 @@ a:focus {
   margin-bottom: 30px;
 }
 
+.light{
+  color:#bbe1fa !important ;
+}
+
+.dark{
+  background-color: rgba(53,57,65,0.1);
+  box-shadow: 1px 2px black;
+}
+
+.dark_o{
+  background-color:rgba(53,57,65,1) ;
+  box-shadow: 1px 2px black;
+  ;
+}
+
 .navbar-light .navbar-nav .nav-link {
-  color: #656565;
+  color: #bbe1fa !important;
+  font-size: 20px;
 }
 
 .navbar-light .navbar-nav .nav-link,
 .dropdown-item {
-  padding: 15px 20px;
+  padding: 10px 15px;
 }
 
 .navbar-light .navbar-nav .active > .nav-link,
@@ -109,11 +111,12 @@ a:focus {
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav a:hover {
-  background-color: #e6e6e6;
+  background-color: #1b262c;
 }
 
 .nav-item {
-  margin-right: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .nav-item:last-child {
@@ -132,16 +135,20 @@ a:focus {
   margin-bottom: 50px;
 }
 
-.tm-col-big {
+.tm-col-mid {
   width: 78%;
 }
 
-.tm-col-mid {
+.tm-col-big {
   width: 100%;
 }
 
 .tm-col-small {
   width: 21.95%;
+}
+
+.tm-col-mid-2 {
+  width: 33%;
 }
 
 .tm-link-black {
@@ -199,8 +206,9 @@ ol {
 .form-control {
   margin-bottom: 23px;
   padding: 19px 18px;
-  border-radius: 0;
-  height: 50px;
+  border-radius: 10px; 
+  height: 20px;
+  background-color: #bbe1fa;
 }
 
 label {
@@ -208,7 +216,7 @@ label {
 }
 
 .btn {
-  border-radius: 0;
+  border-radius: 10px;
   padding: 13px 28px;
   transition: all 0.2s ease;
   max-width: 100%;
@@ -230,7 +238,7 @@ label {
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: black;
-  background-color: #cdd4da;
+  background-color: #1b262c;
   border-color: #999999;
 }
 
@@ -429,6 +437,8 @@ footer {
 
 @media (max-width: 1199px) {
   .tm-col-big,
+  .tm-col-mid,
+  .tm-col-mid-2,
   .tm-col-small {
     width: 49.65%;
   }
@@ -456,6 +466,8 @@ footer {
 
 @media (max-width: 991px) {
   .tm-col-big,
+  .tm-col-mid,
+  .tm-col-mid-2,
   .tm-col-small {
     width: 100%;
     min-height: 383px;
